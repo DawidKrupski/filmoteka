@@ -18,6 +18,7 @@
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
+    "@actions/cache": "^3.0.4",
     "axios": "^1.2.2",
     "firebase": "^9.15.0",
     "json-update": "^5.3.0",
